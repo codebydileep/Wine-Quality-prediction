@@ -81,7 +81,6 @@ Here are some previews of the Wine Quality Prediction app:
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/9f91d168-8b54-4c39-90f1-f55f7f499c3b" />
 
 
-📝 Note: Place your screenshots in a `screenshots` folder inside the project directory.
 
 
 🌟 Show Your Support
